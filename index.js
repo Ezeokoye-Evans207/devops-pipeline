@@ -1,2 +1,2 @@
 console.log("Hello, devops!");
-console.log ("i'm learning ci/cd using GitHub Actions.");
+console.log("I'm learning ci/cd using GitHub Actions.");
